@@ -30,14 +30,14 @@ Here are some of the technologies I work with:
 **Languages:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,python,go,mysql" />
   </a>
 </p>
 
 **Frameworks & Libraries:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,echo,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -60,6 +60,5 @@ Here are some of the technologies I work with:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 
 
