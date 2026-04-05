@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/Proshant45">
-    <img src="https://github-readme-stats.vercel.app/api?username=Proshant45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Prosanto Bhakta's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Proshant45&theme=dracula" alt="Prosanto Bhakta's GitHub Stats" />
   </a>
   <a href="https://github.com/Proshant45">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proshant45&layout=compact&theme=dracula" alt="Prosanto Bhakta's Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Proshant45&theme=dracula" alt="Prosanto Bhakta's Top Languages" />
   </a>
 </div>
 
@@ -60,5 +60,3 @@ Here are some of the technologies I work with:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
