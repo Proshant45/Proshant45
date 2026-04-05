@@ -37,7 +37,7 @@ Here are some of the technologies I work with:
 **Frameworks & Libraries:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,echo,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,bootstrap" />
   </a>
 </p>
 
