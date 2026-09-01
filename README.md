@@ -27,14 +27,14 @@ Here are some of the technologies I work with:
 **Frameworks & Libraries:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,vue,tailwind" />
   </a>
 </p>
 
 **Tools & Infrastructure:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
   </a>
 </p>
 
