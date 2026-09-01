@@ -7,19 +7,9 @@
   </a>
 </div>
 
-### Hi there, I'm Prosanto! 👋
+### Hi there, I'm Prosanto 
 
 I'm a results-driven Full-Stack Developer from Dhaka, Bangladesh, with a passion for building scalable SaaS applications and elegant web solutions. With a unique background in Physics and a specialization in Computer Science, I enjoy tackling complex problems and turning ideas into robust, efficient code.
-
----
-
-### 👨‍💻 About Me
-
-*   🔭 I’m currently working as a **Full-Stack Developer**, focusing on creating seamless user experiences with Laravel and Vue.js.
-*   🌱 I’m always learning and currently diving deeper into **CI/CD pipelines** and **system design**.
-*   💬 Ask me about **PHP, Laravel, Vue.js, or Test-Driven Development (TDD)**.
-*   📫 How to reach me: **prosantobhakta45@gmail.com**
-*   📄 Fun fact: My analytical skills were first sharpened by solving Physics problems before I fell in love with solving them in code!
 
 ---
 
@@ -30,7 +20,7 @@ Here are some of the technologies I work with:
 **Languages:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript,python,go,mysql" />
+    <img src="https://skillicons.dev/icons?i=go,typescript,python,php,mysql" />
   </a>
 </p>
 
