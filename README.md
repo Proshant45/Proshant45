@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Prosanto 
 
-I'm a results-driven Full-Stack Developer from Dhaka, Bangladesh, with a passion for building scalable SaaS applications and elegant web solutions. With a unique background in Physics and a specialization in Computer Science, I enjoy tackling complex problems and turning ideas into robust, efficient code.
+I'm a Full-Stack Developer from Dhaka, Bangladesh, with a passion for building scalable SaaS applications and elegant web solutions. With a unique background in Physics and a specialization in Computer Science, I enjoy tackling complex problems and turning ideas into robust, efficient code.
 
 ---
 
